@@ -82,7 +82,7 @@ Este perfil é onde compartilho um pouco da minha evolução, projetos e coisas 
 
 </p>
 
-> 🔧 *Esta seção pode ser atualizada conforme novas tecnologias forem aprendidas.*
+> 
 
 ---
 
