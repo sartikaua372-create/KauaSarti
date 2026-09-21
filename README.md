@@ -216,8 +216,8 @@ Um espaço reservado para um novo projeto que será desenvolvido durante minha j
 
 <div align="center">
 
-<a href="https://www.instagram.com/kaua_sarti" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@kaua__sarti-C0392B?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/kaua_sarti](https://www.instagram.com/kaua_sart?stkn=OW1sa3QybDQ2OHc3&utm_source=qr" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@kaua__sarti-C0392B?style=for-the-badge&logo=instagram&logoColor=white](https://www.instagram.com/kaua_sart?stkn=OW1sa3QybDQ2OHc3&utm_source=qr"/>
 </a>
 
 <a href="SEU_LINKEDIN_AQUI" target="_blank">
